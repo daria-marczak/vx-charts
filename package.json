@@ -12,6 +12,8 @@
     "d3-array": "^1.2.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
+    "react-donut-chart": "^1.1.7",
+    "react-minimal-pie-chart": "^3.0.2",
     "react-scripts": "1.1.4"
   },
   "scripts": {
